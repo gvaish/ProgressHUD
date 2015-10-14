@@ -1,0 +1,21 @@
+{
+  "name": "ProgressHUD",
+  "version": "1.0.0",
+  "summary": "ProgressHUD is a lightweight and easy-to-use HUD for iOS 7. (Objective-C)",
+  "homepage": "http://www.m10v.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.txt"
+  },
+  "authors": "Gaurav Vaish (Copied over from defunct source)",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "git@github.com:gvaish/ProgressHUD.git",
+    "tag": "v1.0.0"
+  },
+  "source_files": "ProgressHUD/ProgressHUD.{h,m}",
+  "resources": "ProgressHUD/ProgressHUD.bundle",
+  "requires_arc": true
+}
